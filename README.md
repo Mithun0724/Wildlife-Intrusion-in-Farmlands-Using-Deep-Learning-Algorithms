@@ -1,11 +1,11 @@
 # Wildlife-Intrusion-in-Farmlands-Using-Deep-Learning-Algorithms and Lo-Ra Communications
 This project detects wild animal intrusions in farmlands using YOLOv8 and OpenCV on a Raspberry Pi. When an animal is detected, it sends an alert via LoRa through an Arduino Uno and emails the detection image to the farmer, enabling timely action to prevent crop damage.
 
-#Problem Statement 
+# Problem Statement 
 
 Wildlife intrusion into farmlands, especially in areas close to forests, leads to significant crop damage, economic loss, and human-wildlife conflict. Traditional methods of monitoring such as manual guarding or fencing are labor-intensive, costly, and often ineffective. There is a critical need for an automated, real-time system that can accurately detect and identify wild animals and immediately alert farmers, even in remote locations with limited connectivity and power supply. This project aims to address these challenges by developing an intelligent, low-power, and long-range animal detection and alerting system using YOLOv8, OpenCV, and LoRa communication.
 
-#Implementation
+# Implementation
 
 
 To address the issue of wildlife intrusion in farmlands, we developed an intelligent, real-time detection and alert system that combines deep learning, image processing, and wireless communication technologies.
